@@ -54,3 +54,5 @@ i{
 body{
 font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+@media only screen and (max-width: 800px){
+}  
